@@ -13,10 +13,16 @@ This is a personal Repo for Sharad verma to securely store all Code, labworks an
 6. Add changes to local "git add * -A"
 7. Commit the changes "git commit -m "Adding Snowflake Labs" -a"
 8. Now push the changes to remote repo "git push"
-Username for 'https://github.com': sharad-verma
-Password for 'https://sharad-verma@github.com': 
-Enumerating objects: 6, done.
-9. Changes should be visible now on rmote repo.
+    
+    
+    Username for 'https://github.com': sharad-verma
+    
+    
+    Password for 'https://sharad-verma@github.com': 
+    
+    
+    Enumerating objects: 6, done.
+9. Changes should be visible now on remote repo.
 
 ## Contents
 
