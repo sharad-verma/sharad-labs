@@ -8,7 +8,7 @@ This is a personal Repo for Sharad verma to securely store all Code, labworks an
 1. Clone Repo by Command "git clone https://github.com/sharad-verma/sharad-labs.git"
 2. Configure  Email on your local Git "git config --global user.email "sharad_verma81@yahoo.com""
 3. Configure  Email on your local Git "git config --global user.name "sharad verma""
-4. FOr resetting the locally stored credentials, Use "git config --local credential.helper "
+4. For resetting the locally stored credentials, Use "git config --local credential.helper "
 5. Make the first change to your cloned Repo "mkdir Snowflake_Training_Labs"
 6. Add changes to local "git add * -A"
 7. Commit the changes "git commit -m "Adding Snowflake Labs" -a"
